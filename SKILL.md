@@ -3,8 +3,9 @@ name: definition-stress-test
 description: Test whether definitions, categories, or criteria are robust by finding absurd edge cases that technically satisfy the definition but violate its intent—exposing weaknesses before they cause problems.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3806
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - definition-stress-test
